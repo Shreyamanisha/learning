@@ -10,4 +10,3 @@ print("Hi from shubham")
 
 print("hi from Gaurav")
 
-print("hello World")
